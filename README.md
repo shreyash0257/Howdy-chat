@@ -2,8 +2,9 @@
 
 Chat application in flutter.
 
-![Screenshot_20230720-234912](https://github.com/shreyash0257/Howdy-chat/assets/98897735/cb50054e-0d3f-4925-892c-40f193bc2cc6)
-![Screenshot_20230720-234901](https://github.com/shreyash0257/Howdy-chat/assets/98897735/8a0c8c38-8cc5-45a5-81cb-728e1a3027cf)
+![Screenshot_20230720-234912 (1)](https://github.com/shreyash0257/Howdy-chat/assets/98897735/101d2362-4590-4bac-a7ff-c5fcb48e80ca)
+![Screenshot_20230720-234901 (1)](https://github.com/shreyash0257/Howdy-chat/assets/98897735/f69f53e4-cb56-4bf2-beef-cb7f2f3be84a)
+
 
 Created for learning purposes
 
